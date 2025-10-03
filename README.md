@@ -1,8 +1,8 @@
 # 📊 Netflix Dataset Analysis
 
-**Prepared By:** Mohd Tausif  
-**Internship ID:** INT2025XYZ  
-**Student ID:** STU2025ABC  
+**Prepared By:** Mohammad Tausif  
+**Internship ID:** INTERNSHIP_17546440516895be537820f 
+**Student ID:** APPLY_1755017793689b72419707f
 
 ---
 
