@@ -40,22 +40,17 @@ The project focuses on:
 ## 📊 Visualizations
 
 ### 1. Movies vs TV Shows Distribution
-![Movies vs TV Shows](images/movies_vs_tv.png)
-
----
-
-### 2. Content Added by Year
-![Content by Year](images/movies_tv_trend.png)
+![Movies vs TV Shows](https://github.com/whoistausif/VOIS_AICTE_Oct2025_Major_Project_MOHAMMAD_TAUSIF/blob/main/Reports%20Netflix/Movies%20vs%20TV%20Shows%20Distribution.png)
 
 ---
 
 ### 3. Top 10 Genres
-![Top Genres](images/top_genres.png)
+![Top Genres](https://github.com/whoistausif/VOIS_AICTE_Oct2025_Major_Project_MOHAMMAD_TAUSIF/blob/main/Reports%20Netflix/Top%2010%20Genres.png)
 
 ---
 
 ### 4. Top 10 Countries
-![Top Countries](images/top_countries.png)
+![Top Countries](https://github.com/whoistausif/VOIS_AICTE_Oct2025_Major_Project_MOHAMMAD_TAUSIF/blob/main/Reports%20Netflix/Top%2010%20Countries.png)
 
 ---
 
